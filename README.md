@@ -4,7 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a motivational quotes application.
+
+Here is the link to my app preview (play url): https://appetize.io/app/b_iagk6zfx2m4z4v67uil5v3mz64
 
 A few resources to get you started if this is your first Flutter project:
 
